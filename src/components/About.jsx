@@ -17,14 +17,7 @@ function About() {
           obcaecati reiciendis voluptatibus praesentium aperiam iusto, eaque rem
           repellendus iste nihil itaque facere accusamus. Modi, soluta commodi!
           Eveniet sequi et alias facere autem ullam. At, a culpa officiis
-          explicabo aspernatur eum asperiores aut, similique doloribus autem
-          repudiandae! Sint sed nesciunt fugit numquam laboriosam, soluta
-          obcaecati aperiam praesentium consequatur voluptatem porro tempore
-          facere repellendus, ipsam cupiditate atque facilis ex voluptate
-          debitis error ut omnis quaerat cumque corporis. Facilis cum, libero
-          doloribus quam ea vitae sequi saepe quibusdam ipsum expedita rerum
-          accusantium vero nihil ipsam porro atque, architecto alias minima.
-          Eaque, doloribus.
+          explicabo aspernatur eum asperiores aut,
         </p>
         <br />
         <p className="text-xl  text-gray-400">
@@ -40,12 +33,6 @@ function About() {
           Nihil magnam praesentium, exercitationem possimus quisquam sunt
           facilis. Consequatur dolorum accusamus velit molestias quae
           dignissimos fugiat cumque maiores dolor, officiis labore asperiores
-          corrupti omnis in aut facilis fuga aliquam optio debitis magnam. Eum
-          recusandae est delectus consequatur dolorum? Maiores unde quibusdam
-          consequuntur quaerat quisquam nobis aliquam? Blanditiis quas dolores
-          quo accusantium soluta. Voluptates fugit, ipsam facilis quod dolores
-          incidunt sed doloremque at repudiandae sit, quasi assumenda officia
-          hic amet sequi!
         </p>
       </div>
     </div>
