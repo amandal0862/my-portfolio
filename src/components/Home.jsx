@@ -25,10 +25,8 @@ function Home() {
           <h2 className="text-white font-bold text-4xl sm:text-7xl">
             Full Stack Developer
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
-            Currently. I am persuing btech from Silicon Institute of Technology.
-            I love to work on web application using technologies like React,
-            Tailwind CSS, Node.js, Express.js, MongoDB, and Firebase.
+          <p className="text-gray-500 py-4">
+            Currently persuing Btech from Silicon Institute of Technology in Electrical and Electronics Engineering.
           </p>
 
           <div>

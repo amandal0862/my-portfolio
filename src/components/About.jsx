@@ -13,26 +13,11 @@ function About() {
           </p>
         </div>
         <p className="text-xl text-gray-400">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga minus
-          obcaecati reiciendis voluptatibus praesentium aperiam iusto, eaque rem
-          repellendus iste nihil itaque facere accusamus. Modi, soluta commodi!
-          Eveniet sequi et alias facere autem ullam. At, a culpa officiis
-          explicabo aspernatur eum asperiores aut,
-        </p>
-        <br />
-        <p className="text-xl  text-gray-400">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
-          inventore corrupti facere in rerum dolorum numquam vel, eaque pariatur
-          earum dignissimos voluptatibus nobis blanditiis ipsa aliquid
-          consequatur vitae expedita voluptate repellendus. Illo porro atque
-          cumque aut ut velit doloribus accusamus dolore nihil illum. Fuga eius
-          amet voluptas. Eius molestiae cum excepturi, vero in quis magnam unde
-          tempora et quod ad, illum enim voluptates laborum dignissimos
-          molestias exercitationem minima commodi voluptatibus fugiat quia
-          distinctio mollitia illo odit? Nesciunt, asperiores. Pariatur, nobis?
-          Nihil magnam praesentium, exercitationem possimus quisquam sunt
-          facilis. Consequatur dolorum accusamus velit molestias quae
-          dignissimos fugiat cumque maiores dolor, officiis labore asperiores
+          Hi there! I'm Abhishek Kumar Mandal, a Btech undergrad. I've had the opportunity to work on a variety of exciting projects and collaborate with talented individuals.
+          <br /><br />
+          My passion for web development started in my 2nd year of college, and since then I've been dedicated to continuously improving my skills and staying up-to-date with industry advancements.
+          <br /><br />
+          Whether it's designing a website, developing a software application, or solving a complex problem, I approach each project with a creative and analytical mindset. I'm always striving to deliver high-quality results that exceed my clients' expectations.
         </p>
       </div>
     </div>
